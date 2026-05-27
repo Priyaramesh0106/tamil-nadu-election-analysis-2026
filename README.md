@@ -35,6 +35,19 @@ Tasks included:
 - Supporting Excel Analysis Files
 - Election Result Datasets
 - Supporting Visuals
+- Python Notebook
+
+---
+
+## Python Notebook
+
+A basic Python notebook (`Tamil_Nadu_Election_Analysis.ipynb`) is included to demonstrate simple reproducible analysis using pandas and matplotlib.
+
+The notebook performs:
+- Data loading using pandas
+- Filtering TVK vote data
+- Regional vote aggregation
+- Basic visualization using matplotlib
 
 ---
 
@@ -51,6 +64,7 @@ Tasks included:
 Election Commission of India (ECI) publicly available election data.
 
 ---
+
 
 ## Disclaimer
 
