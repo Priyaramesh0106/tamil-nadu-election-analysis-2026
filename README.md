@@ -18,7 +18,7 @@ The objective was to identify the most important electoral shifts and present th
 
 ## Analysis Workflow
 
-The analysis was primarily performed using Microsoft Excel.
+Most analytical preprocessing and aggregation were performed in Microsoft Excel before visualization and presentation.
 
 Tasks included:
 - regional aggregation
@@ -51,6 +51,16 @@ The notebook performs:
 
 ---
 
+## Reproduction Steps
+
+1. Download the repository files.
+2. Open the Excel dataset (`Tn_Election_2026.xlsx`).
+3. Open the notebook file (`Tamil_Nadu_Election_Analysis.ipynb`) using Google Colab.
+4. Run all notebook cells sequentially.
+5. The notebook reproduces the regional TVK vote aggregation and visualization used for the analysis.
+
+---
+
 ## Tools Used
 
 - Microsoft Excel
@@ -61,7 +71,11 @@ The notebook performs:
 
 ## Data Source
 
-Election Commission of India (ECI) publicly available election data.
+1. Election Commission of India (ECI) publicly available election data.
+2. Tamil Nadu 2026 turnout reference data:
+https://www.electionbaba.com/tamil-nadu-voter-turnout-2026
+
+Turnout reference values were cross-verified using ElectionBaba public election summaries.
 
 ---
 
