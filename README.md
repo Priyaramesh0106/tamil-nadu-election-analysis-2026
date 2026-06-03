@@ -13,6 +13,7 @@ The objective was to identify the most important electoral shifts and present th
 - Chennai Metro showed the strongest political realignment.
 - Urban constituencies demonstrated the sharpest vote share shifts.
 - Higher turnout aligned closely with stronger TVK momentum.
+- South Tamil Nadu recorded the highest total TVK vote volume, while Chennai Metro achieved the highest average constituency-level vote count.
 
 ---
 
@@ -38,11 +39,20 @@ Tasks included:
 - Python Notebook
 - PowerBi Dashboard (PBIX/PNG)
 
+## Repository Structure
+
+├── TVK_Regional_Momentum_Dashboard.pbix
+├── TVK_Regional_Momentum_Dashboard.png
+├── Vote_Share_Analysis.xlsm
+├── Turn_Out_Analysis.xlsm
+├── Regional_Shift_Analysis.xlsm
+├── Tamil_Nadu_Election_Analysis.ipynb
+└── README.md
 
 ---
-## Python Notebook
+## Notebook
 
-A basic Python notebook is included as a supplementary artifact to demonstrate simple data loading, filtering, and aggregation using Pandas.
+A basic notebook is included as a supplementary artifact to demonstrate simple data loading, filtering, and aggregation using Pandas.
 
 The primary analysis, calculations, and story development were performed using Microsoft Excel and supporting visualizations.
 
@@ -55,10 +65,13 @@ The notebook performs:
 - Basic visualization using matplotlib
 
 ---
+## Power BI Dashboard
 
-## Supporting Dashboard
+A supporting Power BI dashboard was created to provide an interactive view of TVK's regional performance across Tamil Nadu.
 
-A Power BI dashboard was developed to complement the analysis and provide an interactive view of TVK's regional performance.
+### Dashboard Preview
+
+![TVK Dashboard](TVK_Regional_Momentum_Dashboard.png)
 
 Dashboard highlights:
 
