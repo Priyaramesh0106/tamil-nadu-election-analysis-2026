@@ -36,12 +36,17 @@ Tasks included:
 - Election Result Datasets
 - Supporting Visuals
 - Python Notebook
+- PowerBi Dashboard (PBIX/PNG)
+
 
 ---
-
 ## Python Notebook
 
-A basic Python notebook (`Tamil_Nadu_Election_Analysis.ipynb`) is included to demonstrate simple reproducible analysis using pandas and matplotlib.
+A basic Python notebook is included as a supplementary artifact to demonstrate simple data loading, filtering, and aggregation using Pandas.
+
+The primary analysis, calculations, and story development were performed using Microsoft Excel and supporting visualizations.
+
+The notebook serves as an additional reproducibility reference rather than the main analytical workflow.
 
 The notebook performs:
 - Data loading using pandas
@@ -51,21 +56,39 @@ The notebook performs:
 
 ---
 
+## Supporting Dashboard
+
+A Power BI dashboard was developed to complement the analysis and provide an interactive view of TVK's regional performance.
+
+Dashboard highlights:
+
+- South Tamil Nadu recorded the highest total TVK vote volume.
+- Chennai Metro recorded the highest average constituency-level vote count.
+- Regional filtering enables comparison across all six Tamil Nadu regions.
+---
+
 ## Reproduction Steps
 
-1. Download the repository files.
-2. Open the Excel dataset (`Tn_Election_2026.xlsx`).
-3. Open the notebook file (`Tamil_Nadu_Election_Analysis.ipynb`) using Google Colab.
-4. Run all notebook cells sequentially.
-5. The notebook reproduces the regional TVK vote aggregation and visualization used for the analysis.
+1. Download or clone this repository.
+2. Open the Excel analysis files:
+   - Vote_Share_Analysis.xlsm
+   - Turn_Out_Analysis.xlsm
+   - Regional_Shift_Analysis.xlsm
+3. Review the calculations and supporting visualizations used in the analysis.
+4. Open the Power BI dashboard (`TVK_Regional_Momentum_Dashboard.pbix`) to explore regional TVK performance interactively.
+5. Optionally, open the Python notebook (`Tamil_Nadu_Election_Analysis.ipynb`) for supplementary data aggregation examples.
 
 ---
+
+
 
 ## Tools Used
 
 - Microsoft Excel
 - PowerPoint
 - Gamma
+- PowerBi
+- Google Colab
 
 ---
 
