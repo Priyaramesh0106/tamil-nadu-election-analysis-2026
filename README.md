@@ -39,16 +39,6 @@ Tasks included:
 - Python Notebook
 - PowerBi Dashboard (PBIX/PNG)
 
-## Repository Structure
-
-├── TVK_Regional_Momentum_Dashboard.pbix
-├── TVK_Regional_Momentum_Dashboard.png
-├── Vote_Share_Analysis.xlsm
-├── Turn_Out_Analysis.xlsm
-├── Regional_Shift_Analysis.xlsm
-├── Tamil_Nadu_Election_Analysis.ipynb
-└── README.md
-
 ---
 ## Notebook
 
