@@ -7,6 +7,13 @@ The objective was to identify the most important electoral shifts and present th
 
 ---
 
+## Video Walkthrough
+
+Google Drive Link:
+https://drive.google.com/file/d/1IZLbyCvJfomwDk8tZoCLys4MTSk34J5z/view?usp=sharing
+
+---
+
 ## Key Insights
 
 - TVK emerged as a major competitive force across Tamil Nadu.
